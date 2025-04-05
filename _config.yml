@@ -22,7 +22,7 @@ repository               : "vko-04/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://s21.ax1x.com/2025/04/05/pE6oJhR.jpg"
   name             : "胡楠"
   pronouns         : # example: "she/her"  
   bio              : "一名初生"
